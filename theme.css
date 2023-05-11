@@ -2905,16 +2905,15 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
     font-family: "TerminessTTF";
     src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf");
 }
-
-[data-list-item-id^=channels___] {
-    font-family: "TerminessTTF", var(--font-primary);
+@font-face {
+    font-family: "TerminessTTF Mono";
+    src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete%20Mono.ttf");
 }
-
-@import url('https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf');
 
 :root {
     --font-primary: "TerminessTTF";
-
+    --font-headline: "TerminessTFF";
+    --font-code: "TerminessTTF Mono";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
