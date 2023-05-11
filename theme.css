@@ -2899,3 +2899,29 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
   background-position: center !important;
   background-repeat: no-repeat;
 }
+
+/* Here is the font change */
+@font-face {
+    font-family: "TerminessTTF";
+    src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf");
+}
+
+[data-list-item-id^=channels___] {
+    font-family: "TerminessTTF", var(--font-primary);
+}
+
+@import url('https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf');
+
+:root {
+    --font-primary: "TerminessTTF";
+
+    /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
+    --font-display: "Roboto";
+    --font-headline: "Roboto";
+    --font-code: "Roboto"; /* you should use a monospace font for this */
+}
+
+/*Remove Invite Button next to channel name*/
+.actionIcon-2sw4Sl {
+    display: none;
+}
