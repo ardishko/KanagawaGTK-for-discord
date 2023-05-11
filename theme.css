@@ -2911,7 +2911,7 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 :root {
-    --font-primary: "TerminessTTF" var(--font-primary);
+    --font-primary: "TerminessTTF";
     --font-headline: "TerminessTFF";
     --font-code: "TerminessTTF Mono";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
