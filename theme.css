@@ -2925,3 +2925,18 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 .actionIcon-2sw4Sl {
     display: none;
 }
+
+/*Resizable Channel/DM List But It Looks Bad Sometimes*/
+:root {
+--sidebar-initial-width: 240px;
+} 
+.sidebar-1tnWFu {
+resize: horizontal; 
+width: var(--sidebar-initial-width);
+}
+.sidebar-1tnWFu .channel-2QD9_O {
+max-width: unset;
+}
+.bannerImage-3KhIJ6 {
+width: 100%;
+}
