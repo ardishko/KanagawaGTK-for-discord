@@ -72,15 +72,15 @@ html {
   --text-warning: #e5c890;
   --text-danger: #e78284;
   --text-brand: #8caaee;
-  --background-primary: #1f1f28;
-  --background-secondary: #2e2e41;
+  --background-primary: #1f1f23;
+  --background-secondary: #28282d;
   --background-secondary-alt: #252836;
   --background-tertiary: #232634;
   --background-accent: #8caaee;
   --background-floating: #1f222e;
-  --background-nested-floating: #2e2e41;
+  --background-nested-floating: #28282d;
   --background-mobile-primary: #1f1f28;
-  --background-mobile-secondary: #2e2e41;
+  --background-mobile-secondary: #28282d;
   --chat-background: #1f1f28;
   --chat-border: #232634;
   --chat-input-container-background: #1f1f28;
@@ -205,7 +205,7 @@ html {
   --channels-default: #949ec5;
   --channel-icon: #949ec5;
   --channel-text-area-placeholder: rgba(198, 208, 245, 0.5);
-  --channeltextarea-background: #2e2e41;
+  --channeltextarea-background: #28282d;
   --activity-card-background: #232634;
   --textbox-markdown-syntax: #737994;
   --spoiler-revealed-background: #414559;
@@ -220,7 +220,7 @@ html {
   --deprecated-text-input-bg: #232634;
   --deprecated-text-input-border: rgba(35, 38, 52, 0.3);
   --deprecated-text-input-border-hover: #191b25;
-  --deprecated-text-input-border-disabled: #2e2e41;
+  --deprecated-text-input-border-disabled: #28282d;
   --deprecated-text-input-prefix: #a5adce;
   --focus-primary: #8caaee;
   --interactive-normal: #c6d0f5;
@@ -613,7 +613,7 @@ div[class^=contentRegion-] #billing-tab [class*=paymentText-] {
   color: #b5bfe2;
 }
 div[class^=contentRegion-] #billing-tab div[class^=codeRedemptionRedirect-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
   color: #c6d0f5;
   border-color: #414559;
 }
@@ -638,7 +638,7 @@ div[class^=contentRegion-] #game-activity-tab input[class^=gameName-] {
   color: #c6d0f5;
 }
 div[class^=contentRegion-] #game-activity-tab input[class*=gameNameInput-]:hover, div[class^=contentRegion-] #game-activity-tab input[class*=gameNameInput-]:focus {
-  background-color: #2e2e41;
+  background-color: #28282d;
   border-color: rgba(41, 44, 60, 0.3);
   color: #c6d0f5;
 }
@@ -708,7 +708,7 @@ div[class^=contentRegion-] #guild_premium-tab div[class^=tierHeaderLocked-] svg[
 }
 div[class^=contentRegion-] #guild_premium-tab div[class^=tierBody-] {
   color: #b5bfe2;
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=contentRegion-] svg[class^=activeCircle-] {
   color: #232634;
@@ -733,7 +733,7 @@ div[class^=contentRegion-] #stickers-tab div[class*=tierHeaderContent] {
   background-color: #232634;
 }
 div[class^=contentRegion-] #stickers-tab div[class*=tierBody] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=contentRegion-] #roles-tab div[class*=previewContainer-] .theme-light img[class*=roleIcon-] {
   content: "data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M11.0749 1.66667H4.99996C3.15901 1.66667 1.66663 3.15906 1.66663 5.00001V15C1.66663 16.841 3.15901 18.3333 4.99996 18.3333H15C16.8409 18.3333 18.3333 16.841 18.3333 15V8.92511C17.8052 9.08227 17.2458 9.16667 16.6666 9.16667C13.445 9.16667 10.8333 6.555 10.8333 3.33334C10.8333 2.75419 10.9177 2.19476 11.0749 1.66667ZM6.66663 5.00001C7.58596 5.00001 8.33329 5.74601 8.33329 6.66667C8.33329 7.58801 7.58596 8.33334 6.66663 8.33334C5.74529 8.33334 4.99996 7.58801 4.99996 6.66667C4.99996 5.74601 5.74529 5.00001 6.66663 5.00001ZM4.99996 15L7.49996 11.6667L9.16663 13.3333L12.5 9.16667L15 15H4.99996Z' fill='%2351576d'/%3E%3Cpath d='M17.5 0V2.5H20V4.16667H17.5V6.66667H15.8334V4.16667H13.3334V2.5H15.8334V0H17.5Z' fill='%2351576d'/%3E%3C/svg%3E";
@@ -779,7 +779,7 @@ div[class^=perksModal] {
   background-color: #1f1f28;
 }
 div[class^=perksModal] li[class^=perk] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=perksModal] li[class^=perk] svg {
   color: #f4b8e4;
@@ -842,7 +842,7 @@ div[class^=pageWrapper-] {
   background: #1f1f28 !important;
 }
 div[class^=pageWrapper-] div[class*=searchBox-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=pageWrapper-] div[class*=searchBox-] svg[class*=clearIcon] path {
   fill: #737994;
@@ -875,7 +875,7 @@ div[class*=directoryModal-] {
   background-color: #1f1f28 !important;
 }
 div[class*=directoryModal-] [class*=searchBox] {
-  background-color: #2e2e41 !important;
+  background-color: #28282d !important;
 }
 div[class*=directoryModal-] [class*=searchBox] [name=search]::placeholder {
   color: #a5adce;
@@ -1113,10 +1113,10 @@ div[class^=cooldownWrapper-] {
 }
 
 div[class*=autocomplete-] {
-  background-color: #2e2e41 !important;
+  background-color: #28282d !important;
 }
 div[class*=autocomplete-] div[class*=categoryHeader] {
-  background-color: #2e2e41 !important;
+  background-color: #28282d !important;
 }
 div[class*=autocomplete-] div[class*=autocompleteRowSubheading] {
   background-color: transparent;
@@ -1175,7 +1175,7 @@ div[class^=sidebar-] > section[class^=panels-] div[class*=buttonContents] {
 }
 
 [data-list-id^=forum-channel-list-] div[class^=body-] > div[class^=tags] div[class*=pill] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 [data-list-id^=forum-channel-list-] button[class^=submitButton-][class*=colorBrand] {
   background-color: #8caaee;
@@ -1259,20 +1259,20 @@ div[class^=callContainer-] div[class^=videoControls-] [class*=colorable-][class*
 }
 
 div[class*=giftCodeContainer] [class*=tile] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class*=giftCodeContainer] [class*=tile] > [class*=description] {
   color: #c6d0f5;
 }
 
 div[class*=chat-] section[class*=header-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class*=chat-] div[class*=content-][class*=container-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=container] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=search-] {
   background-color: #1f1f28 !important;
@@ -1284,13 +1284,13 @@ div[class*=chat-] div[class*=content-][class*=container-] div[class*=browser] di
   background-color: #1f1f28;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=scrollerContainer-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=scrollerContainer-] div[class*=checkIcon-][style*="opacity: 1;"] > svg > path {
   fill: #232634;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[role=tablist] {
-  background-color: #2e2e41;
+  background-color: #28282d;
   border-bottom: 2px solid #414559;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[role=tablist] [class*=textBadge-] {
@@ -1404,7 +1404,7 @@ div[class^=layerContainer] [role=menu] #user-context-user-volume div[class*=slid
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] header,
 .theme-light div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] div[class*=autocompleteArrow-],
 .theme-light div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] header {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] header > input::placeholder,
 .theme-light div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] header > input::placeholder {
@@ -1513,7 +1513,7 @@ div[class^=layerContainer] div[id^=user-context] {
   background: #232634;
 }
 div[class^=layerContainer] > div[class*=layer] div[role=listbox] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=layerContainer] > div[class*=layer] div[role=listbox] div[role=option][aria-selected=true] {
   background: #414559;
@@ -1530,7 +1530,7 @@ div[class^=layerContainer] > div[class*=layer] div[role=listbox] div[class*=quer
 div[class^=layerContainer] > div[class*=layer] div[class^=focusLock] div[class^=modal-],
 div[class^=layerContainer] > div[class*=layer] div[class^=focusLock] div[class^=modalSize-],
 div[class^=layerContainer] > div[class*=layer] div[class^=focusLock] div[class^=uploadModal-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=layerContainer] > div[class*=layer] div[class^=focusLock] div[class^=modal-] li,
 div[class^=layerContainer] > div[class*=layer] div[class^=focusLock] div[class^=modal-] p,
@@ -1581,10 +1581,10 @@ div[class^=layerContainer] > div[class*=layer] div[class^=focusLock][aria-label=
   background-color: #414559;
 }
 div[class^=layerContainer] > div[class*=layer] div[class^=focusLock][aria-label="Manage Accounts"] div[class*=navRow-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=layerContainer] div[class^=addGamePopout-] {
-  background-color: #2e2e41;
+  background-color: #28282d;
 }
 div[class^=layerContainer] div[class*=searchOption-]::after,
 div[class^=layerContainer] div[class*=option-]::after,
@@ -1639,7 +1639,7 @@ div[class*=cardWarning-] div[class*=warning-] {
 }
 
 div[class*=keyboardShortcutsModal-] {
-  background-color: #2e2e41 !important;
+  background-color: #28282d !important;
 }
 div[class*=keyboardShortcutsModal-] div[class^=keybindShortcut-] span[class^=key-] {
   color: #232634;
@@ -1650,7 +1650,7 @@ div[class*=keyboardShortcutsModal-] div[class^=keybindShortcut-] span[class^=key
 
 .react-datepicker,
 .react-datepicker__header {
-  background-color: #2e2e41 !important;
+  background-color: #28282d !important;
 }
 
 .react-datepicker__day {
