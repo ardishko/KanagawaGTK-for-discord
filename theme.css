@@ -72,18 +72,18 @@ html {
   --text-warning: #e5c890;
   --text-danger: #e78284;
   --text-brand: #8caaee;
-  --background-primary: #303446;
+  --background-primary: #1f1f28;
   --background-secondary: #292c3c;
   --background-secondary-alt: #252836;
   --background-tertiary: #232634;
   --background-accent: #8caaee;
   --background-floating: #1f222e;
   --background-nested-floating: #292c3c;
-  --background-mobile-primary: #303446;
+  --background-mobile-primary: #1f1f28;
   --background-mobile-secondary: #292c3c;
-  --chat-background: #303446;
+  --chat-background: #1f1f28;
   --chat-border: #232634;
-  --chat-input-container-background: #303446;
+  --chat-input-container-background: #1f1f28;
   --background-modifier-hover: rgba(198, 208, 245, 0.15);
   --background-modifier-selected: rgba(198, 208, 245, 0.2);
   --background-modifier-accent: rgba(198, 208, 245, 0.26);
@@ -101,17 +101,17 @@ html {
   --info-help-foreground: #99d1db;
   --info-help-text: #c6d0f5;
   --status-positive-background: #a6d189;
-  --status-positive-text: #303446;
+  --status-positive-text: #1f1f28;
   --status-warning-background: #e5c890;
-  --status-warning-text: #303446;
+  --status-warning-text: #1f1f28;
   --status-danger-background: #e78284;
-  --status-danger-text: #303446;
+  --status-danger-text: #1f1f28;
   --status-danger: #e78284;
   --status-positive: #a6d189;
   --status-warning: #e5c890;
   --status-yellow-400: #e5c890;
   --status-green-600: #a6d189;
-  --primary-dark-600: #303446;
+  --primary-dark-600: #1f1f28;
   --status-yellow-560: #e5c890;
   --status-red-500: #e78284;
   --status-red-530: #e78284;
@@ -148,39 +148,39 @@ html {
   --button-outline-danger-border: #e78284;
   --button-outline-danger-background: transparent;
   --button-outline-danger-background-hover: #e57779;
-  --button-outline-danger-text-hover: #303446;
+  --button-outline-danger-text-hover: #1f1f28;
   --button-outline-danger-border-hover: #e57779;
   --button-outline-danger-background-active: #e36d6f;
-  --button-outline-danger-text-active: #303446;
+  --button-outline-danger-text-active: #1f1f28;
   --button-outline-danger-border-active: #e57779;
   --button-outline-positive-text: #c6d0f5;
   --button-outline-positive-border: #a6d189;
   --button-outline-positive-background: transparent;
   --button-outline-positive-background-hover: #9fcd80;
-  --button-outline-positive-text-hover: #303446;
+  --button-outline-positive-text-hover: #1f1f28;
   --button-outline-positive-border-hover: #9fcd80;
   --button-outline-positive-background-active: #98ca77;
-  --button-outline-positive-text-active: #303446;
+  --button-outline-positive-text-active: #1f1f28;
   --button-outline-positive-border-active: #9fcd80;
   --button-outline-brand-text: #c6d0f5;
   --button-outline-brand-border: #8caaee;
   --button-outline-brand-background: transparent;
   --button-outline-brand-background-hover: #81a2ec;
-  --button-outline-brand-text-hover: #303446;
+  --button-outline-brand-text-hover: #1f1f28;
   --button-outline-brand-border-hover: #81a2ec;
   --button-outline-brand-background-active: #769aeb;
-  --button-outline-brand-text-active: #303446;
+  --button-outline-brand-text-active: #1f1f28;
   --button-outline-brand-border-active: #81a2ec;
   --button-outline-primary-text: #c6d0f5;
   --button-outline-primary-border: #626880;
   --button-outline-primary-background: transparent;
   --button-outline-primary-background-hover: #5c6279;
-  --button-outline-primary-text-hover: #303446;
+  --button-outline-primary-text-hover: #1f1f28;
   --button-outline-primary-border-hover: #5c6279;
   --button-outline-primary-background-active: #575c72;
-  --button-outline-primary-text-active: #303446;
+  --button-outline-primary-text-active: #1f1f28;
   --button-outline-primary-border-active: #5c6279;
-  --modal-background: #303446;
+  --modal-background: #1f1f28;
   --modal-footer-background: #232634;
   --scrollbar-thin-thumb: #8caaee;
   --scrollbar-thin-track: transparent;
@@ -214,7 +214,7 @@ html {
   --android-ripple: rgba(35, 38, 52, 0.3);
   --deprecated-card-bg: rgba(35, 38, 52, 0.6);
   --deprecated-card-editable-bg: rgba(35, 38, 52, 0.3);
-  --deprecated-store-bg: #303446;
+  --deprecated-store-bg: #1f1f28;
   --deprecated-quickswitcher-input-background: #575c72;
   --deprecated-quickswitcher-input-placeholder: rgba(35, 38, 52, 0.3);
   --deprecated-text-input-bg: #232634;
@@ -536,7 +536,7 @@ div[class^=contentRegion-] #nitro-server-boost-tab circle[class^=circleProgress-
   color: #f4b8e4;
 }
 div[class^=contentRegion-] #nitro-server-boost-tab div[class*=gemIndicatorContainer-] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class^=contentRegion-] #nitro-server-boost-tab div[class*=gemIndicatorContainer-] div[class^=tierLabel-] {
   color: #b5bfe2;
@@ -557,7 +557,7 @@ div[class^=contentRegion-] #subscriptions-tab [class^=subscriptionDetails-] {
   border-color: var(--background-modifier-accent);
 }
 div[class^=contentRegion-] #library-inventory-tab div[class^=promotionIcon-] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class^=contentRegion-] #discord-nitro-tab button[class*=buttonWhite] {
   color: #c6d0f5 !important;
@@ -776,7 +776,7 @@ div[class^=contentRegion-] #roles-tab div[class*=previewContainer-] .theme-dark 
 }
 
 div[class^=perksModal] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class^=perksModal] li[class^=perk] {
   background-color: #292c3c;
@@ -789,11 +789,11 @@ div[class^=perksModal] svg[class^=giftIcon] {
 }
 div[class^=perksModal] div[class^=tierHeaderUnlocked] {
   background-image: linear-gradient(90deg, #8caaee, #ca9ee6);
-  color: #303446;
+  color: #1f1f28;
 }
 div[class^=perksModal] div[class^=tierUnlocked-],
 div[class^=perksModal] div[class^=tierMarkerBackground-] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class^=perksModal] div[class^=barBackground],
 div[class^=perksModal] div[class^=tierMarkerInProgress],
@@ -811,7 +811,7 @@ div[class^=perksModal] div[class^=tierMarkerAccomplished] {
   background-color: #f4b8e4;
 }
 div[class^=perksModal] svg[class^=currentTierIcon] {
-  color: #303446;
+  color: #1f1f28;
 }
 div[class^=perksModal] div[class*=tierMarkerLabelText],
 div[class^=perksModal] svg[class^=tierLock] {
@@ -839,7 +839,7 @@ div[class^=sidebar-] div[class^=container] div[class^=divider-] {
 }
 
 div[class^=pageWrapper-] {
-  background: #303446 !important;
+  background: #1f1f28 !important;
 }
 div[class^=pageWrapper-] div[class*=searchBox-] {
   background-color: #292c3c;
@@ -852,7 +852,7 @@ div[class^=pageWrapper-] div[class*=categoryPill-][class*=selected-] div {
 }
 
 div[class^=homeContainer-] {
-  background: #303446 !important;
+  background: #1f1f28 !important;
 }
 div[class^=homeContainer-] > div[class^=homeContent-] div[class*=card-] {
   background: #414559 !important;
@@ -872,7 +872,7 @@ div[class^=itemInner-] div[class^=new-] > div[class*=newText-] {
 }
 
 div[class*=directoryModal-] {
-  background-color: #303446 !important;
+  background-color: #1f1f28 !important;
 }
 div[class*=directoryModal-] [class*=searchBox] {
   background-color: #292c3c !important;
@@ -1143,7 +1143,7 @@ div[class^=channelTextArea-] button[class*=emojiButton-] {
 }
 
 div[class^=chat] > div[class^=content-] > div[class^=container-] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class^=chat] > div[class^=content-] > div[class^=container-] div[class^=pinIcon-] > svg > path,
 div[class^=chat] > div[class^=content-] > div[class^=container-] div[class^=stepStatus-] > svg > path {
@@ -1194,7 +1194,7 @@ div[class^=callContainer-] [class*=controlIcon-]:hover {
 }
 div[class^=callContainer-] div[class*=tile-],
 div[class^=callContainer-] div[class*=background-] {
-  background-color: #303446 !important;
+  background-color: #1f1f28 !important;
 }
 div[class^=callContainer-] div[class*=overlayTitle],
 div[class^=callContainer-] svg[class*=status-] {
@@ -1275,13 +1275,13 @@ div[class*=chat-] div[class*=content-][class*=container-] div[class*=container] 
   background-color: #292c3c;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=search-] {
-  background-color: #303446 !important;
+  background-color: #1f1f28 !important;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=search-] input::placeholder {
   color: #737994;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=browser] div[class*=content] div[class^=container-] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class*=chat-] div[class*=content-][class*=container-] div[class*=scrollerContainer-] {
   background-color: #292c3c;
@@ -1312,7 +1312,7 @@ div[class*=chat-] li[class*=mainCard-][class*=container]:hover {
   background-color: #51576d;
 }
 div[class*=chat-] li[class*=mainCard-][class*=container] div[class*=contentPreview-] {
-  background-color: #303446;
+  background-color: #1f1f28;
   border: none;
 }
 div[class*=chat-] li[class*=mainCard-][class*=container] div[class*=contentPreview-] div[class*=textContentFooter-] {
@@ -1322,14 +1322,14 @@ div[class*=chat-] li[class*=mainCard-][class*=container] div[class*=tags-] div[c
   background-color: rgba(81, 87, 109, 0.8);
 }
 div[class*=chat-] div[class*=emptyPage] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class*=chat-] div[class*=innerHeader]:after {
   background: none;
 }
 
 [id*=message-accessories-] > [class*=invite-] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 [id*=message-accessories-] > [class*=invite-] [class*=inFront-][class*=header-] {
   color: #a5adce;
@@ -1412,12 +1412,12 @@ div[class^=layerContainer] [role=menu] #user-context-user-volume div[class*=slid
 }
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] section,
 .theme-light div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] section {
-  background-color: #303446;
+  background-color: #1f1f28;
   color: #c6d0f5;
 }
 
 div[class*=recentMentionsPopout] div[class^=header-] div[class^=tabBar] div[class^=tab][class*=active-] {
-  color: #303446;
+  color: #1f1f28;
 }
 div[class*=recentMentionsPopout] div[class^=header-] div[class^=controls-] {
   --background-secondary: #414559;
@@ -1439,7 +1439,7 @@ div[class*=rolesList] div[class^=role-] span[class^=roleCircle-][style*="backgro
   background-color: #a5adce !important;
 }
 div[class*=rolesList] div[class^=role-] span[class^=roleCircle-][style*="background-color: rgb(54, 57, 62)"], div[class*=rolesList] div[class^=role-] span[class^=roleCircle-][style*="background-color: rgb(53, 57, 64)"] {
-  background-color: #303446 !important;
+  background-color: #1f1f28 !important;
 }
 
 div[class*=layerContainer] > div[class*=layer] div[class^=reactors] {
@@ -1596,7 +1596,7 @@ div[class^=layerContainer] div[class^=queryContainer] {
 }
 div[class^=layerContainer] div[class^=queryContainer] span[class^=key] {
   color: #c6d0f5;
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class^=layerContainer] [class*=tooltipBrand-],
 div[class^=layerContainer] [class*=tooltipRed-],
@@ -1612,7 +1612,7 @@ div[class^=layerContainer] div[class^=popout-] div[class^=row][role=button]:hove
 }
 
 form[class*=card-] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 
 div[class*=userInfoSection-] div[class^=connectedAccountContainer-] {
@@ -1677,7 +1677,7 @@ div[class*=layerContainer-] div[class^=control-] div[style*="background-color: r
 }
 
 div[class*=layerContainer-] div[class*=guildPopout-][role=dialog] {
-  background-color: #303446;
+  background-color: #1f1f28;
 }
 div[class*=layerContainer-] div[class*=guildPopout-][role=dialog] div[class*=guildName-] {
   color: #c6d0f5;
@@ -1797,7 +1797,7 @@ rect[fill="#593695"] {
 }
 
 svg[class^=cursorDefault-] svg[class^=dots-] circle {
-  fill: #303446 !important;
+  fill: #1f1f28 !important;
 }
 
 [style*="background-color: hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%)"] {
@@ -1921,7 +1921,7 @@ span[class*=channelMention]:hover,
 div[class*=unread-],
 div[class^=jumpToPresentBar-] > button,
 div[class^=newMessagesBar-] > button {
-  color: #303446;
+  color: #1f1f28;
 }
 
 a[href="/channels/907385605422448742/992579279835639808"] *[class^=icon] {
@@ -2716,7 +2716,7 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 .theme-dark code.hljs {
   color: #c6d0f5;
-  background: #303446;
+  background: #1f1f28;
 }
 .theme-dark code .hljs-keyword {
   color: #ca9ee6;
