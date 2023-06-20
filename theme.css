@@ -64,9 +64,9 @@ html {
 .theme-light {
   --header-primary: #F38BA8;
   --header-secondary: #a5adce;
-  --text-normal: #89B4FA;
+  --text-normal: #DCD7BA;
   --text-muted: #a5adce;
-  --text-link: #DCD7BA;
+  --text-link: #89B4FA;
   --text-link-low-saturation: #85c1dc;
   --text-positive: #a6d189;
   --text-warning: #e5c890;
