@@ -16,7 +16,7 @@ After you've done that, click on it and copy the raw link and replace the links 
 
 # Screenshots, previews
 Preview:
-![image](https://github.com/ardishco-the-great/KanagawaGTK-for-discord/assets/109692107/fd135026-2b1a-48c6-ad9a-f78d4cc400c9)
+![image](https://github.com/ardishco-the-great/KanagawaGTK-for-discord/assets/109692107/32d992c2-4dab-4a66-9c16-bedc7c6a0838)
 (rounded corners and border colours not included, that's a Linux thing.)
 
 (sometimes minor tweaks like colour changes may not be reflected immediately onto the preview screenshots so feel free to let me know in the issues if this is the case.)
