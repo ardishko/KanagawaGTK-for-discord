@@ -2891,10 +2891,10 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 /* skull = sans */
 [src^="/assets/f64f47a895e537305b3463f9d30bc177.svg"] {
-  content: url("https://cdn.discordapp.com/emojis/981912369624154112.webp?size=1024&quality=lossless");
+  content: url("https://cdn.discordapp.com/emojis/1136399266718429204.webp?size=96&quality=lossless");
 }
 [style*='background-position: -1000px -80px;'][style*='background-image: url("/assets/d218674f309bcbfbf56faf6074df6347.png");'] {
-  background-image: url("https://cdn.discordapp.com/emojis/981912369624154112.webp?size=1024&quality=lossless") !important;
+  background-image: url("https://cdn.discordapp.com/emojis/1136399266718429204.webp?size=96&quality=lossless") !important;
   background-size: contain !important;
   background-position: center !important;
   background-repeat: no-repeat;
