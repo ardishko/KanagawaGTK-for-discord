@@ -1,5 +1,5 @@
 # Kanagawa GTK theme for Discord
-this is just the theme I use, It's only on github so I can load it easier
+A Discord theme to match the Kanagawa GTK Theme
 
 download theme.css and plop it into your themes floder for BD
 
@@ -20,4 +20,7 @@ Preview:
 (rounded corners and border colours not included, that's a Linux thing.)
 
 (sometimes minor tweaks like colour changes may not be reflected immediately onto the preview screenshots so feel free to let me know in the issues if this is the case.)
+
+# Disclaimer
+I used to use this theme, but now I've moved on from the Kanagawa color scheme, so if there is something you'd like to see tweaked, open an issue or send a PR.
 
