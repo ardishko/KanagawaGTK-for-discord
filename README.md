@@ -6,7 +6,7 @@ download theme.css and plop it into your themes floder for BD
 Also, just to clarify, you can open an issue on this if you would like to suggest changes, I'm fine with adding them.
 Just because this is a theme I made for myself doesn't mean it's not open to change :)
 
-on vencord, just copy the raw link https://raw.githubusercontent.com/ardishco-the-great/KanagawaGTK-for-discord/main/theme.css and put it in your theme section
+on vencord, just copy the raw link https://raw.githubusercontent.com/ardishco-the-great/KanagawaGTK-for-discord/main/kanagawa.theme.css and put it in your theme section
 
 
 I have no idea about replugged, sorry.
